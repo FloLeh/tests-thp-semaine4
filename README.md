@@ -6,6 +6,6 @@
 [Pour travailler convenablement](https://www.deezer.com/fr/artist/617)
 
 
-https://zestedesavoir.com/tutoriels/1124/le-deploiement-dune-application-sinatra/
+http://guides.railsgirls.com/sinatra-app
 
 View at: [http://localhost:4567](http://localhost:4567)
