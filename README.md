@@ -3,7 +3,7 @@
 [Doc de la gem Sinatra](https://github.com/sinatra/sinatra)
 
 
-[Pour travailler convenablement](https://www.deezer.com/fr/artist/617)
+[Pour travailler convenablement en musique](https://www.deezer.com/fr/artist/617)
 
 
 [Guide pour Sinatra](http://guides.railsgirls.com/sinatra-app)
