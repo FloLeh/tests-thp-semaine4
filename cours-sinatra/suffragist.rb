@@ -19,6 +19,8 @@ post '/cast' do
   @store = YAML::Store.new 'votes.yml'
   @store.transaction do
     @store['votes'] ||= {}
+    @store['test'] ||= {}
+    @store['test']["test1"] ||= 0
     @store['votes'][@vote] ||= 0
     @store['votes'][@vote] += 1
   end

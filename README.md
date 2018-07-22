@@ -6,6 +6,8 @@
 [Pour travailler convenablement](https://www.deezer.com/fr/artist/617)
 
 
-http://guides.railsgirls.com/sinatra-app
+[Guide pour Sinatra](http://guides.railsgirls.com/sinatra-app)
 
 View at: [http://localhost:4567](http://localhost:4567)
+
+[Apprendre le SQL](http://sql.sh/)
