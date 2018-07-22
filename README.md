@@ -11,3 +11,7 @@
 View at: [http://localhost:4567](http://localhost:4567)
 
 [Apprendre le SQL](http://sql.sh/)
+
+[Installer Mysql(openclassroom)](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql/1959969-installation-de-mysql)
+
+[Apprendre le SQL(openclassroom)](https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql)
