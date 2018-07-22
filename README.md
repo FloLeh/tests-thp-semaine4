@@ -8,7 +8,12 @@
 
 [Guide pour Sinatra](http://guides.railsgirls.com/sinatra-app)
 
-View at: [http://localhost:4567](http://localhost:4567)
+Pour lancer le programme :
+```bash
+ruby suffragist.rb
+```
+
+Pour voir le programme lancé : [http://localhost:4567](http://localhost:4567)
 
 [Apprendre le SQL](http://sql.sh/)
 
